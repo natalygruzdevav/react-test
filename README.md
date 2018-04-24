@@ -1,1 +1,4 @@
-# react-test
+React App
+
+yarn
+yarn start
